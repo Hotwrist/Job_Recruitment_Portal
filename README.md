@@ -14,13 +14,13 @@ When an account is created by an admin, company, or applicant, they are redirect
 
 # Image
 Home Page
-![This is an image](images/IMG-20220327-WA0001.jpg)
+![Job recruitment portal home page](images/IMG-20220327-WA0001.jpg)
 
 Admin 3-FA Page
-![This is an image](images/IMG-20220402-WA0006.jpg)
+![Job recruitment portal admin verification page](images/IMG-20220402-WA0006.jpg)
 
 Admin 3-FA Page ( when scrolled up)
-![This is an image](images/IMG-20220402-WA0008.jpg)
+![Job recruitment portal admin verification page](images/IMG-20220402-WA0008.jpg)
 
 Applicant Page
-![This is an image](images/IMG-20220405-WA0002.jpg)
+![Job recruitment portal applicant page](images/IMG-20220405-WA0002.jpg)
