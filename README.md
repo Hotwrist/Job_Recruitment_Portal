@@ -12,7 +12,7 @@ Each company or applicant is also saddled with the responsibility of creating an
 
 When an account is created by an admin, company, or applicant, they are redirected to a login page, where an applicant can view companies requiring his/her skills and a company can view applicants having the skill it requires.
 
-# Image
+# Images
 Home Page
 ![Job recruitment portal home page](images/IMG-20220327-WA0001.jpg)
 
