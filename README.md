@@ -18,3 +18,9 @@ Home Page
 
 Admin 3-FA Page
 ![This is an image](images/IMG-20220402-WA0006.jpg)
+
+Admin 3-FA Page ( when scrolled up)
+![This is an image](images/IMG-20220402-WA0008.jpg)
+
+Applicant Page
+![This is an image](images/IMG-20220405-WA0002.jpg)
